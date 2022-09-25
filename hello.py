@@ -1,0 +1,1 @@
+print('Hello world,\nwelcome to the \npit hackathon 2022')
